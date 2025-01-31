@@ -1,3 +1,8 @@
+---
+layout: post
+title: Drone env setup
+---
+
 # 최종 결과
 
 # **1. 연구의 배경 및 필요성**
